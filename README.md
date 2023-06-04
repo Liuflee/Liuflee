@@ -21,7 +21,7 @@ In addition to my studies, I have set my sights on working in Norway, a country 
 I'm always open to collaborating on interesting projects or discussing new ideas. If you have any questions, suggestions, or just want to say hi, feel free to reach out to me. You can find me on:
 
 <a href="https://twitter.com/@lovingpudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lovingpudu" height="30" width="40" /></a>
-<a href="https://instagram.com/@loving_pudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@loving_pudu" height="30" width="40" /></a>
+<a href="https://instagram.com/@loving_pudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="loving_pudu" height="30" width="40" /></a>
 </p>
 
 Let's connect and create amazing things together!
